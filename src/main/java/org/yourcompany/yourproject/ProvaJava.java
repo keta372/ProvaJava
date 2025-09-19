@@ -11,6 +11,6 @@ package org.yourcompany.yourproject;
 public class ProvaJava {
 
     public static void main(String[] args) {
-        System.out.println("Hellyhfyhtfhfyjhgfjho World!");
+        System.out.println("Hello World!");
     }
 }
